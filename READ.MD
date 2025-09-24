@@ -7,5 +7,4 @@ You taste salt and have only a small satchel with a water bottle and a knife. Th
 What will you do?
 
 - [Build a shelter on the beach and gather supplies.](beach.md)
-- [Venture into the jungle toward the drums.](jungle.md)
 - [Search the wreck for anything useful before leaving the beach.](wreck.md)
